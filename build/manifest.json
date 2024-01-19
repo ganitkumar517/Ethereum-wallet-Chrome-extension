@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "My Ethereum Extension",
+  "version": "1.0",
+  "description": "An extension for Ethereum transactions",
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}

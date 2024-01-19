@@ -3,7 +3,7 @@ import Popup from "./popup/Popup";
 
 export default function App() {
   return (
-    <div>
+    <div style={{padding:"20px"}}>
       <Popup />
     </div>
   );
